@@ -1,0 +1,55 @@
+.Home{
+	width: 100%;
+	height: 100vh;
+	background-image: url('pic1.jpg');
+	color: white;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.Features{
+	width: 100%;
+	height: 100vh;
+	background-image: url('pic2.jpg');
+	color: white;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.Aboutus{
+	width: 100%;
+	height: 100vh;
+	background-image: url('pic3.jpg');
+	color: white;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.Contactus{
+	width: 100%;
+	height: 100vh;
+	background-image: url('pic4.jpg');
+	color: white;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.Footer{
+	background: black;
+	opacity: 0.8;
+	color: white;
+	display: flex;
+	justify-content: space-around;
+	height: 30px;
+	position: relative;
+	padding-top: 5px;
+}
+
+.form{
+	position: relative;
+	left: 150px;
+}
