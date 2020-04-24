@@ -3,12 +3,12 @@ import logo from './logo.svg';
 import './App.css';
 
 import {BrowserRouter, Route, Switch} from 'react-router-dom';
-import Menu from './FashionPage/Menu';
-import Features from './FashionPage/Features';
-import Home from './FashionPage/Home';
-import Aboutus from './FashionPage/Aboutus';
-import Contactus from './FashionPage/Contactus';
-import Footer from './FashionPage/Footer';
+import Menu from './Menu';
+import Features from './Features';
+import Home from './Home';
+import Aboutus from './Aboutus';
+import Contactus from './Contactus';
+import Footer from './Footer';
 
 
  function App() {
